@@ -1,0 +1,8 @@
+# Core libraries used by the notebook and inference script
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn==1.9.1
+joblib
+notebook
